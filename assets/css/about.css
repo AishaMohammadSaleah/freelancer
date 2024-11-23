@@ -1,0 +1,27 @@
+.about-contaner {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  align-items: center;
+  height: 200;
+}
+#about {
+  width: 100%;
+  justify-items: center;
+  background-color: #1abc9c;
+  color: white;
+  height: 400px;
+}
+.bbb {
+  background-color: #1abc9c;
+  width: 200px;
+  height: 50px;
+  color: #ffff;
+  border-color: #fff;
+  border: 1px solid;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.ii {
+  margin-right: 3px;
+}

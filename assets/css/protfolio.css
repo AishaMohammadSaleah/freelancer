@@ -1,0 +1,31 @@
+#portfolio .lines {
+  color: #2e3a51;
+}
+#portfolio .line {
+  background-color: #2e3a51;
+}
+#portfolio {
+  justify-items: center;
+  margin-top: 20px;
+}
+.portfolio-img {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  width: 100%;
+  justify-content: center;
+}
+.portfolio-img img {
+  width: 400px;
+  border-radius: 20px;
+  height: 300px;
+}
+#portfolio.lines {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+}
+#portfolio h2 {
+  color: #2e3a51;
+}

@@ -1,0 +1,74 @@
+
+footer {
+  width: 100%;
+  font-weight: 100;
+  color: #fff;
+  background-color: #2e3a51;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  column-gap: 100px;
+  row-gap: 100px;
+  flex-wrap: wrap;
+  height: 320px;
+  justify-items: center;
+}
+footer h2 {
+  font-weight: 700;
+  font-size: large;
+  padding-bottom: 10px;
+}
+.location-section{
+  height: 200px;
+  width: 200px;
+  justify-items: center;
+  padding-left: 40px;
+}.communication-section{
+  height: 200px;
+  width: 300px;
+  justify-items: center;
+}.Freelancer{
+  height: 200px;
+  width: 200px;
+  justify-items: center;
+  padding-left: 40px;
+}
+.Copyright {
+  background-color: #1a252f;
+  height: 10px;
+  width: 100%;
+  justify-items: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.communication {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.communication-child{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  color: #fff;
+  border-color: #fff;
+  border-style: solid;
+} .communication .communication-child:hover svg {
+
+ fill: #2e3a51;}
+
+  .communication  svg{
+
+    width: 20px;
+    height: 20px;
+    fill: #fff;
+    padding-top: 15px;
+    padding-left: 15px;
+  } .communication-child:hover{
+    background-color: #fff;
+  }.a-style{
+   
+    color:  #1abc9c;;
+  }
