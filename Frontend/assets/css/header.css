@@ -1,0 +1,26 @@
+header{
+  padding-top: 20px;
+}
+
+.website-header{
+    background-color: #1abc9c;
+    height: 800px;
+    }
+    .header-content{
+      justify-items: center;
+     
+    
+    }header img{
+    padding-bottom: 70px;
+      width: 240px;
+      margin-top: 80px;
+    }.header-text{
+        color: #fff;
+        font-size: 24px;
+        justify-items: center;
+      
+      }
+     .website-header .lines{
+padding-top: 60px;
+padding-bottom: 30px;
+     }
